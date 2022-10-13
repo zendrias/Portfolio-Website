@@ -2907,11 +2907,11 @@ input[type=number] {
 
 .aali_tm_copyright {
 	width: 100%;
-	height: auto;
+	height: fit-content;
 	clear: both;
 	float: left;
 	background-color: #3c3c3c;
-	padding: 120px 0px 65px 0px;
+	padding: 50px 0 0 0;
 	position: relative;
 }
 
@@ -2929,7 +2929,7 @@ input[type=number] {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	margin-bottom: 112px;
+	margin-bottom: 10px;
 }
 
 .aali_tm_copyright .logo img {
